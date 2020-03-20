@@ -1,0 +1,27 @@
+﻿  Main.cpp
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(29,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(35,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(50,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(58,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(60,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(64,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(72,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(74,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(81,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(83,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(86,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(87,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(88,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Will\Dev\workspaceCPP\Wasp\Player.h(89,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Will\Dev\workspaceCPP\Wasp\Main.cpp(283,17): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Will\Dev\workspaceCPP\Wasp\Main.cpp(308,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Will\Dev\workspaceCPP\Wasp\Main.cpp(348,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Will\Dev\workspaceCPP\Wasp\Main.cpp(355,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Will\Dev\workspaceCPP\Wasp\Main.cpp(363,32): warning C4101: 'e': unreferenced local variable
+C:\Users\Will\Dev\workspaceCPP\Wasp\Main.cpp(373,20): warning C4018: '<': signed/unsigned mismatch
+  cse169.vcxproj -> C:\Users\Will\Dev\workspaceCPP\Wasp\Debug\cse169.exe
+  Copy DLLs
+  C:\Users\Will\Dev\workspaceCPP\Wasp\packages\glew.redist.1.9.0.1\build\native\bin\v110\Win32\Debug\dynamic\glew.dll
+  1 File(s) copied
+  C:\Users\Will\Dev\workspaceCPP\Wasp\packages\freeglut.redist.2.8.1.15\build\native\bin\v110\Win32\Release\dynamic\freeglut.dll
+  1 File(s) copied
